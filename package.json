@@ -4,7 +4,8 @@
   "description": "Qr generator",
   "main": "code.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node code.js"
   },
   "author": "Fernando Rodriguez",
   "license": "ISC",
