@@ -1,0 +1,16 @@
+{
+  "name": "qr-url",
+  "version": "1.0.0",
+  "description": "Qr generator",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.1"
+  }
+}
